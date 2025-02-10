@@ -1,3 +1,5 @@
+## My Projects
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/electroly/sqlnotebook"><img src="icons/sqlnotebook.png" width="48" height="48"></a></td>
