@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/electroly/sqlnotebook"><img src="icons/sqlnotebook.png" width="48" height="48"></a></td>
-<td><a href="https://github.com/electroly/sqlnotebook"><b>SQL Notebook</b></a></td>
+<td align="center"><a href="https://github.com/brianluft/sqlnotebook"><img src="icons/sqlnotebook.png" width="48" height="48"></a></td>
+<td><a href="https://github.com/brianluft/sqlnotebook"><b>SQL Notebook</b></a></td>
 <td>Casual data exploration in SQL</td>
 </tr>
 <tr>
