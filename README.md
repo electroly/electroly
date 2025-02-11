@@ -2,11 +2,6 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/brianluft/sqlnotebook"><img src="icons/sqlnotebook.png" width="48" height="48"></a></td>
-<td><a href="https://github.com/brianluft/sqlnotebook"><b>SQL Notebook</b></a></td>
-<td>Casual data exploration in SQL</td>
-</tr>
-<tr>
 <td align="center"><a href="https://github.com/brianluft/jackpot"><img src="icons/jackpot.png" width="48" height="48"></a></td>
 <td><a href="https://github.com/brianluft/jackpot"><b>Jackpot Media Library</b></a></td>
 <td>Personal video hub powered by Backblaze B2 cloud storage</td>
@@ -17,13 +12,18 @@
 <td>Translate foreign language videos and screenshots</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tmbasic-lang/tmbasic"><img src="icons/tmbasic.png" width="48" height="48"></a></td>
-<td><a href="https://github.com/tmbasic-lang/tmbasic"><b>TMBASIC</b></a></td>
-<td>Programming language for writing non-graphical programs</td>
+<td align="center"><a href="https://github.com/brianluft/sqlnotebook"><img src="icons/sqlnotebook.png" width="48" height="48"></a></td>
+<td><a href="https://github.com/brianluft/sqlnotebook"><b>SQL Notebook</b></a></td>
+<td>Casual data exploration in SQL</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/threadloaf"><img src="icons/threadloaf.png" width="48" height="48"></a></td>
 <td><a href="https://github.com/brianluft/threadloaf"><b>Threadloaf</b></a></td>
 <td>Browser extension to add a threaded view to Discord</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/tmbasic-lang/tmbasic"><img src="icons/tmbasic.png" width="48" height="48"></a></td>
+<td><a href="https://github.com/tmbasic-lang/tmbasic"><b>TMBASIC</b></a></td>
+<td>Programming language for writing non-graphical programs</td>
 </tr>
 </table>
