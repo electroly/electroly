@@ -22,8 +22,8 @@
 <td>Browser extension to add a threaded view to Discord</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/tmbasic-lang/tmbasic"><img src="icons/tmbasic.png" width="48"></a></td>
-<td><a href="https://github.com/tmbasic-lang/tmbasic"><b>TMBASIC</b></a></td>
+<td align="center"><a href="https://github.com/tmbasic/tmbasic"><img src="icons/tmbasic.png" width="48"></a></td>
+<td><a href="https://github.com/tmbasic/tmbasic"><b>TMBASIC</b></a></td>
 <td>Programming language for writing non-graphical programs</td>
 </tr>
 </table>
