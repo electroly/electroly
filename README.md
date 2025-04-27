@@ -1,6 +1,11 @@
-## My Projects
+## Applications
 
 <table>
+<tr>
+<td align="center"><a href="https://github.com/brianluft/winfile"><img src="icons/winfile.png" width="48"></a></td>
+<td><a href="https://github.com/brianluft/winfile"><b>File Manager</b></a></td>
+<td>A streamlined fork of the classic tool with high-DPI support.</td>
+</tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/jackpot"><img src="icons/jackpot.png" width="48"></a></td>
 <td><a href="https://github.com/brianluft/jackpot"><b>Jackpot Media Library</b></a></td>
