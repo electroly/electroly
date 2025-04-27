@@ -1,4 +1,4 @@
-## Applications
+## My Projects
 
 <table>
 <tr>
