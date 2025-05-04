@@ -4,7 +4,7 @@
 <tr>
 <td align="center"><a href="https://github.com/brianluft/winfile"><img src="icons/winfile.png" width="48"></a></td>
 <td><a href="https://github.com/brianluft/winfile"><b>File Manager</b></a></td>
-<td>A streamlined fork of the classic tool with high-DPI support.</td>
+<td>A streamlined version of the classic tool for Windows</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/jackpot"><img src="icons/jackpot.png" width="48"></a></td>
