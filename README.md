@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/brianluft/winfile"><img src="icons/winfile.png" width="48"></a></td>
-<td><a href="https://github.com/brianluft/winfile"><b>File Manager</b></a></td>
-<td>A streamlined version of the classic tool for Windows</td>
+<td align="center"><a href="https://github.com/brianluft/heirloom"><img src="icons/winfile.png" width="48"></a></td>
+<td><a href="https://github.com/brianluft/heirloom"><b>Heirloom File Manager</b></a></td>
+<td>A streamlined version of the classic Windows File Manager</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/jackpot"><img src="icons/jackpot.png" width="48"></a></td>
