@@ -3,8 +3,8 @@
 <table>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/heirloom"><img src="icons/winfile.png" width="48"></a></td>
-<td><a href="https://github.com/brianluft/heirloom"><b>Heirloom File Manager</b></a></td>
-<td>A streamlined version of the classic Windows File Manager</td>
+<td><a href="https://github.com/brianluft/heirloom"><b>Heirloom apps</b></a></td>
+<td>Lightly modernized Program Manager and File Manager for Windows</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/jackpot"><img src="icons/jackpot.png" width="48"></a></td>
