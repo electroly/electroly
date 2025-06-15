@@ -1,6 +1,7 @@
-## Apps
-
 <table>
+<tr>
+<td colspan=3><h3>Apps</h3></td>
+</tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/heirloom"><img src="icons/winfile.png" width="48"></a></td>
 <td><a href="https://github.com/brianluft/heirloom"><b>Heirloom apps</b></a></td>
@@ -31,11 +32,10 @@
 <td><a href="https://github.com/tmbasic/tmbasic"><b>TMBASIC</b></a></td>
 <td>Programming language for writing non-graphical programs</td>
 </tr>
-</table>
-
-## Utilities
-
-<table>
+<tr></tr>
+<tr>
+<td colspan=3><h3>Utilities</h3></td>
+</tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/arcadia"><img src="icons/arcadia.png" width="48"></a></td>
 <td><a href="https://github.com/brianluft/heirloom"><b>Arcadia MCP Server</b></a></td>
