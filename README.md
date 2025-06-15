@@ -1,4 +1,4 @@
-## My Projects
+## Apps
 
 <table>
 <tr>
@@ -30,5 +30,15 @@
 <td align="center"><a href="https://github.com/tmbasic/tmbasic"><img src="icons/tmbasic.png" width="48"></a></td>
 <td><a href="https://github.com/tmbasic/tmbasic"><b>TMBASIC</b></a></td>
 <td>Programming language for writing non-graphical programs</td>
+</tr>
+</table>
+
+## Utilities
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/brianluft/arcadia"><img src="icons/arcadia.png" width="48"></a></td>
+<td><a href="https://github.com/brianluft/heirloom"><b>Arcadia MCP Server</b></a></td>
+<td>Workarounds for Cursor issues on Windows</td>
 </tr>
 </table>
