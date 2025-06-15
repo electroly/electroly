@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/arcadia"><img src="icons/arcadia.png" width="48"></a></td>
-<td><a href="https://github.com/brianluft/heirloom"><b>Arcadia MCP Server</b></a></td>
+<td><a href="https://github.com/brianluft/arcadia"><b>Arcadia MCP Server</b></a></td>
 <td>Workarounds for Cursor issues on Windows</td>
 </tr>
 </table>
