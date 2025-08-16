@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td colspan=4><h3>Apps</h3></td>
+<td colspan=4><h3>Applications</h3></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/heirloom"><img src="icons/winfile.png" width="48"></a></td>
@@ -42,7 +42,7 @@
 <td><nobr><img src="ionicons/logo-microsoft.svg" width="24" alt="Windows">&nbsp;<img src="ionicons/logo-apple.svg" width="24" alt="macOS">&nbsp;<img src="ionicons/logo-tux.svg" width="24" alt="Linux"></nobr></td>
 </tr>
 <tr>
-<td colspan=3><h3>Utilities</h3></td>
+<td colspan=3><h3>Developer Tools</h3></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/brianluft/arcadia"><img src="icons/arcadia.png" width="48"></a></td>
