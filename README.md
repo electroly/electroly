@@ -34,6 +34,14 @@
 </tr>
 <tr></tr>
 <tr>
+<td colspan=3><h3>Libraries</h3></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/brianluft/terminalforms"><img src="icons/terminalforms.png" width="48"></a></td>
+<td><a href="https://github.com/brianluft/terminalforms"><b>Terminal Forms</b></a></td>
+<td>Terminal user interface framework for .NET based on Turbo Vision</td>
+</tr>
+<tr>
 <td colspan=3><h3>Utilities</h3></td>
 </tr>
 <tr>
