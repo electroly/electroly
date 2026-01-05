@@ -14,10 +14,10 @@
 
 <h2>Libraries</h2>
 
-<a href="https://github.com/brianluft/terminalforms"><img src="icons/terminalforms.png" width="48" align="left"></a>
 <a href="https://github.com/brianluft/terminalforms"><b>Terminal Forms</b></a>&nbsp;&nbsp;&nbsp;<img src="ionicons/logo-microsoft.svg" width="12" alt="Windows" valign="textmiddle">&nbsp;<img src="ionicons/logo-apple.svg" width="12" alt="macOS" valign="textmiddle">&nbsp;<img src="ionicons/logo-tux.svg" width="12" alt="Linux" valign="textmiddle"><br>Terminal user interface framework for .NET based on Turbo Vision
 
 <h2>Utilities</h2>
 
-<a href="https://github.com/brianluft/arcadia"><img src="icons/arcadia.png" width="48" align="left"></a>
 <a href="https://github.com/brianluft/arcadia"><b>Arcadia MCP Server</b></a>&nbsp;&nbsp;&nbsp;<img src="ionicons/logo-microsoft.svg" width="12" alt="Windows" valign="textmiddle"><br>Workarounds for Cursor issues
+
+<a href="https://github.com/brianluft/pdf2md"><b>pdf2md</b></a>&nbsp;&nbsp;&nbsp;<img src="ionicons/logo-microsoft.svg" width="12" alt="Windows" valign="textmiddle"><br>Convert PDFs into Markdown using GPT 
